@@ -1,2 +1,2 @@
-# NewProject
-How to use Git.
+# New Project
+How to use Git. Hello, World!
